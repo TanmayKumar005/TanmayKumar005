@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tanmay. 
-- 👀 I’m interested in ios development. 
-- 🌱 I’m currently learning web development. 
+- 👀 I’m interested in anything realted to computer science mainly in web development. 
+- 🌱 I’m currently learning AI with python. 
 - 💞️ I’m looking to collaborate with someone to  make a project. 
 - 📫 How to reach me --->tanmay22605@gmail.com
 
