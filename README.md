@@ -1,2 +1,6 @@
-Hi,I am Tanmay.I am programmer,interested in web development,building up my interest in AI
+Hi,I am Tanmay.
+Building up my interest in everything possible.
+Learning new everyday.
+Currently learning Shell.
+
 
